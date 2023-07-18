@@ -11,7 +11,7 @@ function validarInicioSesion() {
         return false;
     }
 }
-
+//configurar
 function registrarse() {
     // Aquí puedes agregar la lógica para redirigir a la página de registro si es necesario.
     // Por ejemplo: window.location.href = 'registro.html';
